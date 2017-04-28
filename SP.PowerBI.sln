@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.PowerBI", "SP.PowerBI\SP.PowerBI.csproj", "{6AB8AA3F-5CD3-49FD-9BF6-1E179F08F885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.PowerBI.DB", "SP.PowerBI.DB\SP.PowerBI.DB.csproj", "{3606CEB1-1256-4429-B215-D4D56B2B6CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB8AA3F-5CD3-49FD-9BF6-1E179F08F885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB8AA3F-5CD3-49FD-9BF6-1E179F08F885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB8AA3F-5CD3-49FD-9BF6-1E179F08F885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB8AA3F-5CD3-49FD-9BF6-1E179F08F885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3606CEB1-1256-4429-B215-D4D56B2B6CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3606CEB1-1256-4429-B215-D4D56B2B6CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3606CEB1-1256-4429-B215-D4D56B2B6CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3606CEB1-1256-4429-B215-D4D56B2B6CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\SP.PowerBI.DB.dll
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\SP.PowerBI.DB.pdb
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\obj\Debug\SP.PowerBI.DB.csprojResolveAssemblyReference.cache
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\obj\Debug\SP.PowerBI.DB.dll
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\obj\Debug\SP.PowerBI.DB.pdb
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\SP.PowerBI.DB.dll.config
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\EntityFramework.dll
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\EntityFramework.SqlServer.dll
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\EntityFramework.xml
+F:\tfscode\PowerBI\SP.PowerBI\SP.PowerBI.DB\bin\Debug\EntityFramework.SqlServer.xml
